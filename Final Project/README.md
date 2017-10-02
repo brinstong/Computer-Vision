@@ -1,5 +1,3 @@
-# Computer-Vision-Assignments & Project
-
 # Project Details
 # fall_detection_example.py
 This file is the source code of fall detection system
